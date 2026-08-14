@@ -49,18 +49,6 @@ Ce dépôt accompagne une épingle Pinterest (compte `orvaladigital`) qui repren
 les rendre visibles à celles et ceux qui veulent situer leur propre budget cadeau par rapport à la
 moyenne mesurée — pas pour donner un conseil d'économie.
 
-Ce dépôt fait partie d'une série qui chiffre et source ce que les autres se contentent d'affirmer,
-un sujet à la fois — [voir l'index complet](https://github.com/VincentChabran/VincentChabran) :
-
-- [783 €/an pour un chien, 571 €/an pour un chat](https://github.com/VincentChabran/combien-coute-un-chien-un-chat)
-- [19 293 € : le budget moyen d'un mariage en France](https://github.com/VincentChabran/combien-coute-un-mariage)
-- [1 239,56 € : le coût de revient d'un déménagement de 27 m³](https://github.com/VincentChabran/combien-coute-un-demenagement)
-- [488 € : le budget d'une rentrée scolaire 2026](https://github.com/VincentChabran/combien-coute-une-rentree-scolaire)
-- [1 748 € : le budget des vacances d'été 2026](https://github.com/VincentChabran/combien-coutent-des-vacances-ete)
-- [491 € : le budget de Noël 2025](https://github.com/VincentChabran/combien-coute-noel)
-- [490 €/mois : le budget d'un bébé de 0 à 3 ans](https://github.com/VincentChabran/combien-coute-un-bebe)
-- [154 € : le budget cadeau moyen chez les couples qui fêtent la Saint-Valentin](https://github.com/VincentChabran/combien-coute-la-saint-valentin)
-
 ![Visuel](./pin.png)
 
 ## La série « On a compté »
