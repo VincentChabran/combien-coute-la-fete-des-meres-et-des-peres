@@ -33,6 +33,34 @@ Pages sources vérifiées directement (WebFetch, 2026-08-10) :
 Aucun chiffre de ce document n'a été recalculé ou extrapolé, à une exception : les « 21 points »
 d'écart sont un calcul simple (88 − 67), pas une extension au-delà de ce que la source dit.
 
+## Ce qui explique peut-être l'écart de 21 points : deux statuts très différents
+
+Ajouté le 2026-08-16, vérifié à la source. La Fête des Mères et la Fête des Pères n'ont pas la
+même origine, et ce n'est pas anecdotique :
+
+- **La Fête des Mères est inscrite dans la loi française.** La **loi n° 50-577 du 24 mai 1950**
+  (Vincent Auriol, président de la République) fixe sa célébration au dernier dimanche de mai et
+  charge le ministre de la Santé, avec l'UNAF, de l'organiser — texte intégral consulté sur
+  Légifrance (https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000000886326, lu le 2026-08-16).
+  Elle est aujourd'hui codifiée dans le **Code de l'action sociale et des familles**
+  (https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006072637/LEGISCTA000006140493/1956-01-28,
+  articles 17 à 19 dans leur version consolidée, renumérotés R215-1 à D215-2 dans le code actuel :
+  https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006178331/). C'est un texte d'État, pas une
+  initiative privée.
+- **La Fête des Pères n'a jamais eu ce statut.** Son origine en France est commerciale : en 1952,
+  Marcel Quercia, dirigeant de **Flaminaire** (fabricant de briquets), lance la campagne « Nos
+  papas nous l'ont dit, pour la fête des Pères, ils désirent tous un Flaminaire » — une opération
+  publicitaire, pas une loi (source : Slate.fr,
+  https://www.slate.fr/story/267204/origine-histoire-fete-des-peres-tradition-papas-saint-joseph-etats-unis-sonora-smart-dodd-france-briquets-flaminaire,
+  lu le 2026-08-16). Elle ne figure dans aucune loi ni dans le Code de l'action sociale et des
+  familles.
+
+**Nuance** : ce n'est pas une preuve que la loi de 1950 *cause* les 21 points d'écart de
+participation mesurés par CEWE/Discurv en 2025 — 74 ans séparent les deux mesures, et aucune
+étude causale n'est citée ici. C'est une donnée officielle supplémentaire, factuelle et vérifiable,
+qui met en regard un écart déjà mesuré avec une différence de statut réelle entre les deux
+occasions. Rien n'est inventé ni extrapolé au-delà de ce que les deux sources disent.
+
 ## Ce qui manque, honnêtement
 
 La répartition en % par poste de cadeau ne totalise pas 100 % pour chaque fête : les sources ne
