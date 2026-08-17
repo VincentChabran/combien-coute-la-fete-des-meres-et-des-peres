@@ -61,6 +61,24 @@ participation mesurés par CEWE/Discurv en 2025 — 74 ans séparent les deux me
 qui met en regard un écart déjà mesuré avec une différence de statut réelle entre les deux
 occasions. Rien n'est inventé ni extrapolé au-delà de ce que les deux sources disent.
 
+## Un chiffre officiel complémentaire : qui achète vraiment des fleurs, et pour combien
+
+Ajouté le 2026-08-17, vérifié directement à la source (https://www.valhor.fr/actualites/fleurs-et-plantes-achetees-pour-les-fetes,
+page mise à jour mai 2026) : selon le panel Kantar suivi pour **VALHOR et FranceAgriMer**, **8 %**
+des foyers français achètent des fleurs ou plantes pour la Fête des Mères 2025, pour un **budget
+moyen de 17 €** — réparti à 63 % en fleurs coupées et 33 % en plantes.
+
+**Ce chiffre ne se compare pas directement** aux 28 % « fleurs » de la source CEWE/Discurv
+ci-dessus : les deux instituts mesurent des choses différentes (CEWE/Discurv mesure la part des
+Français qui *citent* les fleurs comme cadeau offert ; VALHOR/Kantar mesure la part des foyers qui
+*achètent* effectivement des fleurs ou plantes, via un panel de caisse). Aucune moyenne recalculée,
+aucune addition entre les deux — ce sont deux mesures indépendantes du même geste.
+
+**Conflit d'intérêt à connaître** : VALHOR est l'interprofession de l'horticulture et de la
+fleuristerie française — elle a un intérêt direct à documenter (et à voir progresser) les ventes de
+fleurs. Même réserve déjà appliquée aux complements Saint-Valentin et mariage de cette même série :
+donnée de panel réelle (pas un sondage déclaratif), mais publiée par la filière qu'elle concerne.
+
 ## Ce qui manque, honnêtement
 
 La répartition en % par poste de cadeau ne totalise pas 100 % pour chaque fête : les sources ne
