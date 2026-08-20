@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://vincentchabran.github.io/combien-coute-la-fete-des-meres-et-des-peres/sitemap.xml
