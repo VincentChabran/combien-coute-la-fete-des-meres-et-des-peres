@@ -1,5 +1,7 @@
 # Combien coûte la Fête des Mères et la Fête des Pères ?
 
+![Visites de cette page](https://visitor-badge.laobi.icu/badge?page_id=vincentchabran.combien-coute-la-fete-des-meres-et-des-peres.pages)
+
 **77 €** : c'est le budget cadeau moyen des Français pour la Fête des Mères 2025. **76 €** pour
 la Fête des Pères 2025 — quasiment le même montant. Pourtant, **88 %** des Français déclarent
 offrir systématiquement un cadeau à leur mère, contre **67 % seulement** à leur père : un écart
